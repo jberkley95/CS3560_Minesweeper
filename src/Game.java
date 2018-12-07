@@ -117,7 +117,7 @@ class Game extends JFrame {
         BoxLayout g1 = new BoxLayout(panel1, BoxLayout.X_AXIS);
         panel1.setLayout(g1);
 
-        JLabel jLabel1 = new JLabel(" Flags = ");
+        JLabel jLabel1 = new JLabel(" Bombs = ");
         jLabel1.setAlignmentX(Component.LEFT_ALIGNMENT);
         jLabel1.setHorizontalAlignment(JLabel.LEFT);
         remainingFlags = new JLabel("" + this.numMines);
