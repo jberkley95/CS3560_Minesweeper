@@ -12,7 +12,7 @@ public class Minesweeper {
         minesweeper.start(minesweeper);
     }
 
-    private void start(Minesweeper minesweeper) {
+    void start(Minesweeper minesweeper) {
         Input input = new Input(minesweeper);
         input.main(input);
     }

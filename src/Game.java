@@ -219,7 +219,9 @@ class Game extends JFrame {
                     JOptionPane.showMessageDialog(this, "java.Game Over !", null,
                             JOptionPane.ERROR_MESSAGE);
 
-                    System.exit(0);
+                    this.setVisible(false);
+                    Minesweeper minesweeper = new Minesweeper();
+                    minesweeper.start(minesweeper);
 
                     break;
 
@@ -231,7 +233,9 @@ class Game extends JFrame {
                         JOptionPane.showMessageDialog(rootPane,
                                 "Congratulations! You've Won");
 
-                        System.exit(0);
+                        this.setVisible(false);
+                        minesweeper = new Minesweeper();
+                        minesweeper.start(minesweeper);
                     }
 
                     // Recursively reveal blocks
@@ -280,8 +284,9 @@ class Game extends JFrame {
                     ++this.numRevealed;
                     if (gameWon()) {
                         JOptionPane.showMessageDialog(rootPane, "You Won !");
-
-                        System.exit(0);
+                        this.setVisible(false);
+                        minesweeper = new Minesweeper();
+                        minesweeper.start(minesweeper);
                     }
 
                     break;
