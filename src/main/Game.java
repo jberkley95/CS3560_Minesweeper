@@ -1,3 +1,5 @@
+package java;
+
 import javax.imageio.ImageIO;
 import javax.swing.*;
 import javax.swing.border.LineBorder;
@@ -30,7 +32,7 @@ class Game extends JFrame {
     Game(int size, int toughness) {
         numMines = size * (1 + toughness / 2);
         this.setSize(size * SQUARE_SIZE, size * SQUARE_SIZE + 50);
-        this.setTitle("Minesweeper");
+        this.setTitle("java.Minesweeper");
         setLocationRelativeTo(null);
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
     }
@@ -216,7 +218,7 @@ class Game extends JFrame {
                     } catch (Exception ignored) {
                     }
 
-                    JOptionPane.showMessageDialog(this, "Game Over !", null,
+                    JOptionPane.showMessageDialog(this, "java.Game Over !", null,
                             JOptionPane.ERROR_MESSAGE);
 
                     System.exit(0);

@@ -1,3 +1,5 @@
+package java;
+
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
@@ -27,7 +29,7 @@ class InputActionListener implements ActionListener {
             size = Integer.parseInt(input);
             if (size <= 6) {
                 JOptionPane.showMessageDialog(parent,
-                        "Enter an integer greater than 6", "Invalid Input!",
+                        "Enter an integer greater than 6", "Invalid java.Input!",
                         JOptionPane.ERROR_MESSAGE);
                 text.setText("");
             } else {
@@ -36,7 +38,7 @@ class InputActionListener implements ActionListener {
             }
         } catch (NumberFormatException | HeadlessException e) {
             JOptionPane.showMessageDialog(parent,
-                    "Enter an integer!", "Invalid Input",
+                    "Enter an integer!", "Invalid java.Input",
                     JOptionPane.ERROR_MESSAGE);
             text.setText("");
         }

@@ -1,3 +1,5 @@
+package java;
+
 import javax.swing.*;
 
 /**
@@ -13,7 +15,7 @@ class Input extends JFrame {
     Input(Minesweeper minesweeper) {
         this.minesweeper = minesweeper;
         this.setSize(400, 100);
-        this.setTitle("Input");
+        this.setTitle("java.Input");
         setLocationRelativeTo(null);
         this.setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
     }
