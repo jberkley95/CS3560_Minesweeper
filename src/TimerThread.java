@@ -1,5 +1,3 @@
-package java;
-
 /**
  * @author John Berkley, Bryan Lee, Joshua Chen, Saul Galaviz
  * CPP Class: CS 3560

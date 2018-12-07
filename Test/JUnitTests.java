@@ -1,26 +1,25 @@
-package test;
-
-
-import main.*;
-import org.junit.jupiter.api.Test;
+import org.junit.Assert;
+import org.junit.Test;
 
 import javax.swing.*;
 
-import static org.junit.jupiter.api.Assertions.assertEquals;
-
-public class DummyTest {
-
+/**
+ * @author John Berkley, Bryan Lee, Joshua Chen, Saul Galaviz
+ * CPP Class: CS 3560
+ * Date Created: Nov 05, 2018
+ */
+public class JUnitTests {
     @Test
     public void numOfMinesShouldFollowFormula(){
-        assertEquals(7,new Game(7,
+        Assert.assertEquals(7,new Game(7,
                         1).getNumMines(),
                 "# of mines should be 'size * (1 + toughness / 2)'");
 
-        assertEquals(14,new Game(7,
+        Assert.assertEquals(14,new Game(7,
                         2).getNumMines(),
                 "# of mines should be 'size * (1 + toughness / 2)'");
 
-        assertEquals(14,new Game(7,
+        Assert.assertEquals(14,new Game(7,
                         3).getNumMines(),
                 "# of mines should be 'size * (1 + toughness / 2)'");
     }
@@ -32,19 +31,16 @@ public class DummyTest {
 
         if(smileTest){
             if(gameTest.getSmileButton() != null) {
-                assertEquals(new ImageIcon(gameTest.getSmile()),
+                Assert.assertEquals(new ImageIcon(gameTest.getSmile()),
                         gameTest.getSmileButton().getIcon(),
                         "Image should be smiling when isSmiling is true");
             }
         }else{
             if(gameTest.getSmileButton() != null) {
-                assertEquals(new ImageIcon(gameTest.getDead()),
+                Assert.assertEquals(new ImageIcon(gameTest.getDead()),
                         gameTest.getSmileButton().getIcon(),
                         "Image should be dead when isSmiling is false");
             }
         }
     }
-
-
-
 }
