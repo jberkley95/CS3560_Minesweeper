@@ -1,40 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c4f3585e-5e23-47d3-ab1f-f182d6edd4e7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/JUnitTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/ant_ant_junit_1_6_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CS3560_Minesweeper.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CS3560_Minesweeper.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CS3560_Minesweeper/Game.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CS3560_Minesweeper/Game.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CS3560_Minesweeper/GameActionListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CS3560_Minesweeper/GameActionListener.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CS3560_Minesweeper/GameMouseListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CS3560_Minesweeper/GameMouseListener.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CS3560_Minesweeper/Images/Smiley.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CS3560_Minesweeper/Images/dead.png" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CS3560_Minesweeper/Images/dead.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CS3560_Minesweeper/Images/flag.png" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CS3560_Minesweeper/Images/flag.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CS3560_Minesweeper/Images/mine.png" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CS3560_Minesweeper/Images/mine.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CS3560_Minesweeper/Input.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CS3560_Minesweeper/Input.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CS3560_Minesweeper/InputActionListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CS3560_Minesweeper/InputActionListener.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CS3560_Minesweeper/Minesweeper.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CS3560_Minesweeper/Minesweeper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CS3560_Minesweeper/TimerThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CS3560_Minesweeper/TimerThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Game.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/GameActionListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GameActionListener.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/GameMouseListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GameMouseListener.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Images/dead.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/Images/dead.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Images/flag.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/Images/flag.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Images/mine.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/Images/mine.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Images/smile.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/Images/smile.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Input.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Input.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/InputActionListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InputActionListener.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Minesweeper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Minesweeper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/TimerThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TimerThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/GameTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/Images/dead.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/Images/flag.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/Images/mine.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/Images/smile.png" beforeDir="false" />
-    </list>
+    <list default="true" id="c4f3585e-5e23-47d3-ab1f-f182d6edd4e7" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,11 +11,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Game.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5185">
-              <caret line="309" column="5" lean-forward="true" selection-start-line="309" selection-start-column="5" selection-end-line="309" selection-end-column="5" />
+            <state relative-caret-position="313">
+              <caret line="210" column="7" lean-forward="true" selection-start-line="210" selection-start-column="7" selection-end-line="210" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -97,8 +64,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Minesweeper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            <state relative-caret-position="34">
+              <caret line="2" selection-start-line="2" selection-end-line="6" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -112,11 +79,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Test/JUnitTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-85">
-              <caret line="17" column="42" lean-forward="true" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
+            <state relative-caret-position="191">
+              <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -150,8 +117,8 @@
         <option value="$PROJECT_DIR$/src/TimerThread.java" />
         <option value="$PROJECT_DIR$/src/test/GameTest.java" />
         <option value="$PROJECT_DIR$/src/main/Minesweeper.java" />
-        <option value="$PROJECT_DIR$/Test/JUnitTests.java" />
         <option value="$PROJECT_DIR$/src/Game.java" />
+        <option value="$PROJECT_DIR$/Test/JUnitTests.java" />
       </list>
     </option>
   </component>
@@ -197,7 +164,9 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544164219941" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544164645968" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Libraries" />
@@ -223,7 +192,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.JUnitTests">
+  <component name="RunManager" selected="Application.Minesweeper">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -278,8 +247,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.JUnitTests" />
         <item itemvalue="Application.Minesweeper" />
+        <item itemvalue="JUnit.JUnitTests" />
       </list>
     </recent_temporary>
   </component>
@@ -294,12 +263,12 @@
       <option name="presentableId" value="Default" />
       <updated>1544080712718</updated>
       <workItem from="1544080716960" duration="5331000" />
-      <workItem from="1544161960337" duration="1288000" />
+      <workItem from="1544161960337" duration="1532000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6619000" />
+    <option name="totallyTimeSpent" value="6863000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -405,13 +374,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Minesweeper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/TimerThread.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -422,20 +384,27 @@
     <entry file="file://$PROJECT_DIR$/CS3560_Minesweeper.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Game.java">
+    <entry file="file://$PROJECT_DIR$/src/Minesweeper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5185">
-          <caret line="309" column="5" lean-forward="true" selection-start-line="309" selection-start-column="5" selection-end-line="309" selection-end-column="5" />
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="6" selection-end-column="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Test/JUnitTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-85">
-          <caret line="17" column="42" lean-forward="true" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
+        <state relative-caret-position="191">
+          <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Game.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="210" column="7" lean-forward="true" selection-start-line="210" selection-start-column="7" selection-end-line="210" selection-end-column="7" />
         </state>
       </provider>
     </entry>

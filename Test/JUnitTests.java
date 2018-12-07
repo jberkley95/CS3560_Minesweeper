@@ -9,6 +9,7 @@ import javax.swing.*;
  * Date Created: Nov 05, 2018
  */
 public class JUnitTests {
+    /*
     @Test
     public void numOfMinesShouldFollowFormula(){
         Assert.assertEquals(7,new Game(7,
@@ -43,4 +44,5 @@ public class JUnitTests {
             }
         }
     }
+    */
 }
